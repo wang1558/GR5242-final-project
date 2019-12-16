@@ -6,3 +6,4 @@ Project Name: Neural style transfer
 
 Resources: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
+![image](Results/3 contents_2 style/shanghai+Van Gogh.png)
